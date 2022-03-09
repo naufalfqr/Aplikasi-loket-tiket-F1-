@@ -1,2 +1,2 @@
 # Aplikasi-loket-tiket-F1-
-Aplikasi loket tiket berbasis java
+Aplikasi loket tiket berbasis java (SQL database)
